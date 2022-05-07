@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">Welcome to My Github Repo! <br> I am a passionate Cloud Architect and Devops from China.</h3>
-
-- 🔭 I’m currently working on **Deployment for a Network management tool on AWS**
-
-- 🌱 I’m currently learning **Machine learning,Data Analisys**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
