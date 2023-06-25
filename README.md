@@ -1,5 +1,6 @@
 ### Hi there 👋
 
-![GitHub Repo stars](https://img.shields.io/github/stars/:user/:repo)
+
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 
