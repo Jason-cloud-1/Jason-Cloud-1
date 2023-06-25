@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Jason-cloud-1/Jason-Cloud-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Repo stars](https://img.shields.io/github/stars/:user/:repo)
+
 
 Here are some ideas to get you started:
 
