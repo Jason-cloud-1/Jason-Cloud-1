@@ -1,6 +1,6 @@
 ![logo](https://github.com/Jason-cloud-1/Jason-Cloud-1/blob/main/chuang.webp) 
 ![](https://komarev.com/ghpvc/?username=Jason-cloud-1&color=green)   
-<h1 align="center">Hey! I am Jason, Well come to my Repo!<br>I am a Cloud Architect & Devops from China! </h1>  
+<h1 align="center">Hey! I am Jason, Well come to my Repo!</h1>  
 
 ### My Skills  
 ![logo](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
