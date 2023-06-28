@@ -3,23 +3,23 @@
 <h1 align="center">Hey! I am Jason, Well come to my Repo!<br>I am a Cloud Architect & Deops from China! </h1>  
 
 ### My Skills  
-![로고명](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
-![로고명](https://img.shields.io/badge/Azure-0078D4.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![로고명](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white) 
-![로고명](https://img.shields.io/badge/PowerShell-5391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white) 
-![로고명](https://img.shields.io/badge/Shell-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white) 
-![로고명](https://img.shields.io/badge/Ansible-EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white)
-![로고명](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![로고명](https://img.shields.io/badge/EKS-FF9900.svg?&style=for-the-badge&logo=amazoneks&logoColor=white)
-![로고명](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) 
-![로고명](https://img.shields.io/badge/GitHubAction-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
-![로고명](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white) 
-![로고명](https://img.shields.io/badge/Terraform-7B42BC.svg?&style=for-the-badge&logo=terraform&logoColor=white)
-![로고명](https://img.shields.io/badge/pulumi-8A3391.svg?&style=for-the-badge&logo=pulumi&logoColor=white)
-![로고명](https://img.shields.io/badge/helm-0F1689.svg?&style=for-the-badge&logo=helm&logoColor=white)
+![logo](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
+![logo](https://img.shields.io/badge/Azure-0078D4.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![logo](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white) 
+![logo](https://img.shields.io/badge/PowerShell-5391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white) 
+![logo](https://img.shields.io/badge/Shell-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white) 
+![logo](https://img.shields.io/badge/Ansible-EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white)
+![logo](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![logo](https://img.shields.io/badge/EKS-FF9900.svg?&style=for-the-badge&logo=amazoneks&logoColor=white)
+![logo](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) 
+![logo](https://img.shields.io/badge/GitHubAction-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
+![logo](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white) 
+![logo](https://img.shields.io/badge/Terraform-7B42BC.svg?&style=for-the-badge&logo=terraform&logoColor=white)
+![logo](https://img.shields.io/badge/pulumi-8A3391.svg?&style=for-the-badge&logo=pulumi&logoColor=white)
+![logo](https://img.shields.io/badge/helm-0F1689.svg?&style=for-the-badge&logo=helm&logoColor=white)
 
 
-### My video  
+### My Video  
 
 ### References
 
