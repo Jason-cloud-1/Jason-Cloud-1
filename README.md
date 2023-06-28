@@ -13,7 +13,7 @@
 ![로고명](https://img.shields.io/badge/EKS-FF9900.svg?&style=for-the-badge&logo=amazoneks&logoColor=white)
 ![로고명](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)   
 ![로고명](https://img.shields.io/badge/GitHubAction-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
-![로고명](https://img.shields.io/badge/GitHubAction-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white) 
+![로고명](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white) 
 
 <img align="right" width="400"  src="https://github-readme-stats.vercel.app/api?username=Jason-cloud-1&theme=dark&show_icons=true">             
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-cloud-1&layout=compact&theme=tokyonight">   
