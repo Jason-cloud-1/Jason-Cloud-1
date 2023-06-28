@@ -16,6 +16,9 @@
 ![로고명](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white) 
 ![로고명](https://img.shields.io/badge/Terraform-7B42BC.svg?&style=for-the-badge&logo=terraform&logoColor=white)
 ![로고명](https://img.shields.io/badge/pulumi-8A3391.svg?&style=for-the-badge&logo=pulumi&logoColor=white)
+![로고명](https://img.shields.io/badge/helm-0F1689.svg?&style=for-the-badge&logo=helm&logoColor=white)
+
+
 <img align="right" width="400"  src="https://github-readme-stats.vercel.app/api?username=Jason-cloud-1&theme=dark&show_icons=true">             
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-cloud-1&layout=compact&theme=tokyonight">   
 
