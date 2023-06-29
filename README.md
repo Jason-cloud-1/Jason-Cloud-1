@@ -22,7 +22,7 @@
 ### My Video  
 | Terraform                                                                                             | Ansible | Python | Shell |
 |-------------------------------------------------------------------------------------------------------|---------|--------|-------|
-| [test](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/47+Learn+Terraform+-+Module+Versioning+with+GitHub.mp4) |         |        |       |
+| [test](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/47+Learn+Terraform+-+Module+Versioning+with+GitHub.mp4) | [document](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-document/High+Level+Design+-Tapestry_old_one.pptx)        |        |       |
 |                                                                                                       |         |        |       |
 |                                                                                                       |         |        |       |
 |                                                                                                       |         |        |       |
