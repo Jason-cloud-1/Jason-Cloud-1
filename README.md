@@ -19,7 +19,7 @@
 ![logo](https://img.shields.io/badge/helm-0F1689.svg?&style=for-the-badge&logo=helm&logoColor=white)
 
 
-### My Video  
+### Video  
 
 <div style="overflow: auto;">
   <div style="float: left;">
