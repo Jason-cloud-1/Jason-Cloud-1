@@ -25,8 +25,8 @@
 |----------|----------|
 | 동영상 1 | 동영상 2 |
 | ![TF remote module Versioning](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Terraform+module+versioning-test-video.png) | ![DevOps](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/devops.png) |
-| 동영상 3 |
-| ![Python with GitHub Copilot](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/python_copilot.png) |
+| 동영상 3 | 동영상 4 |
+| ![Python with GitHub Copilot](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/python_copilot.png) | ![동영상 4](URL_동영상_4) |
 
 
 
