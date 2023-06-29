@@ -20,11 +20,23 @@
 
 
 ### My Video  
-#### test
 
-<a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/47+Learn+Terraform+-+Module+Versioning+with+GitHub.mp4">
-  <img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Terraform+module+versioning-test-video.png" alt="TF remote module Versioning" width="300" height="300">
-</a>
+<div style="display: flex;">
+  <div>
+    <p>Terreafornm remote module versioning</p>
+    <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/47+Learn+Terraform+-+Module+Versioning+with+GitHub.mp4">
+      <img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Terraform+module+versioning-test-video.png" alt="TF remote module Versioning" width="300" height="300">
+    </a>
+  </div>
+  
+  <div>
+    <p>免费domain？</p>
+    <a href="[URL_TO_VIDEO_2](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/domain.mov)">
+      <img src="[URL_TO_THUMBNAIL_2](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/freenom.png)" alt="免费domain？" width="300" height="300">
+    </a>
+  </div>
+</div>
+
 
 
 
