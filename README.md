@@ -20,24 +20,12 @@
 
 
 ### Video   
-
-|          |          |
+| 동영상 1 | 동영상 2 | 
 |----------|----------|
-| terraform remote module versioning | is DevOps right for you? |
-| <video width="350" height="180" controls>
-    <source src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/47+Learn+Terraform+-+Module+Versioning+with+GitHub.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video> | <video width="350" height="180" controls>
-    <source src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Is+DevOps+right+for+you+13+points+to+consider.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video> |
-| Python with GitHub Copilot | 동영상 4 |
-| <video width="350" height="180" controls>
-    <source src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Effortless+Python+with+GitHub+Copilot.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video> | ![동영상 4](URL_동영상_4) |
-
-
+|          |          |
+|   동영상 3 | 동영상 4  |
+|----------|----------|
+|          |          |
 
 
 
