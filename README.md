@@ -35,6 +35,13 @@
       <img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/devops.png" alt="Alt Text 2" width="550" height="300">
     </a>
   </div>
+  
+  <div style="float: left;">
+    <p>Python With github Copilot </p>
+    <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Effortless+Python+with+GitHub+Copilot.mp4">
+      <img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/python_copilot.png" alt="Alt Text 2" width="550" height="300">
+    </a>
+  </div>
 </div>   
 
 ### Reference  
