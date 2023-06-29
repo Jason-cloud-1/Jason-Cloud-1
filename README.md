@@ -27,14 +27,12 @@
 |                             |                         |
 
 
-위의 코드를 Markdown 에디터에 붙여넣으면 크기가 동일한 2x2 형태의 테이블이 생성됩니다. 각 이미지의 크기는 `width="250"`와 `height="140"`로 설정되었습니다. 이미지와 링크가 정확히 작동하며, 이미지가 테이블 셀 안에 적절히 나타납니다.
 
 
-
-
-|    Python With github Copilot        |       Video 4     |
-|------------|------------|
-| [![TF remote module Versioning](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Terraform+module+versioning-test-video.png)](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/47+Learn+Terraform+-+Module+Versioning+with+GitHub.mp4) | |  
+| Python With github Copilot | is DevOps right for you? |
+|-----------------------------|-------------------------|
+| <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Effortless+Python+with+GitHub+Copilot.mp4"><img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/python_copilot.png" alt="Python With github Copilot" width="250" height="140"></a> | <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Is+DevOps+right+for+you+13+points+to+consider.mp4"><img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/devops.png" alt="is DevOps right for you?" width="250" height="140"></a> |
+|                             |                         |
 
 
 
