@@ -31,8 +31,8 @@
   
   <div>
     <p>免费domain？</p>
-    <a href="[URL_TO_VIDEO_2](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/domain.mov)">
-      <img src="[URL_TO_THUMBNAIL_2](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/freenom.png)" alt="免费domain？" width="300" height="300">
+    <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/domain.mov">
+      <img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/freenom.png" alt="免费domain？" width="300" height="300">
     </a>
   </div>
 </div>
