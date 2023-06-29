@@ -20,10 +20,13 @@
 
 
 ### Video   
-|    TF remote module Versioning        |       TF remote module Versioning     |
+|    TF remote module Versioning        |       is the Devops right for you ?     |
 |------------|------------|
-| [![TF remote module Versioning](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Terraform+module+versioning-test-video.png)](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/47+Learn+Terraform+-+Module+Versioning+with+GitHub.mp4) | [![TF remote module Versioning](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Terraform+module+versioning-test-video.png)](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/47+Learn+Terraform+-+Module+Versioning+with+GitHub.mp4) |
+| [![TF remote module Versioning](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Terraform+module+versioning-test-video.png)](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/47+Learn+Terraform+-+Module+Versioning+with+GitHub.mp4) | [![is the Devops right for you ?](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/devops.png)](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Is+DevOps+right+for+you+13+points+to+consider.mp4) |  
 
+|    Python With github Copilot        |       Video 4     |
+|------------|------------|
+| [![TF remote module Versioning](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Terraform+module+versioning-test-video.png)](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/47+Learn+Terraform+-+Module+Versioning+with+GitHub.mp4) | |  
 
 
 
