@@ -31,8 +31,8 @@
   
   <div style="float: left;">
     <p>is the Devops right for you ? </p>
-    <a href="URL_TO_VIDEO_2">
-      <img src="URL_TO_THUMBNAIL_2" alt="Alt Text 2" width="300" height="300">
+    <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Is+DevOps+right+for+you+13+points+to+consider.mp4">
+      <img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/devops.png" alt="Alt Text 2" width="300" height="300">
     </a>
   </div>
 </div>
