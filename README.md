@@ -21,23 +21,24 @@
 
 ### Video   
 
+
 |          |          |
 |----------|----------|
-| terraform remote module versioning | is the Devops right for you ? |
+| terraform remote module versioning | is DevOps right for you? |
 | <div style="float: left;">
     <p>terraform remote module versioning</p>
     <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/47+Learn+Terraform+-+Module+Versioning+with+GitHub.mp4">
       <img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Terraform+module+versioning-test-video.png" alt="TF remote module Versioning" width="350" height="180">
     </a>
   </div> | <div style="float: left; margin-left: 20px;">
-    <p>is the Devops right for you ? </p>
+    <p>is DevOps right for you? </p>
     <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Is+DevOps+right+for+you+13+points+to+consider.mp4">
       <img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/devops.png" alt="Alt Text 2" width="350" height="180">
     </a>
   </div> |
-| Python With github Copilot | 동영상 4 |
+| Python with GitHub Copilot | 동영상 4 |
 | <div style="clear: both; margin-top: 20px;">
-    <p>Python With github Copilot </p>
+    <p>Python with GitHub Copilot</p>
     <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Effortless+Python+with+GitHub+Copilot.mp4">
       <img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/python_copilot.png" alt="Alt Text 2" width="350" height="180">
     </a>
