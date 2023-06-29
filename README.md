@@ -21,21 +21,22 @@
 
 ### My Video  
 
-<div style="display: flex;">
-  <div>
-    <p>Terreafornm remote module versioning</p>
+<div style="overflow: auto;">
+  <div style="float: left;">
+    <p>terraform remote module versioning</p>
     <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/47+Learn+Terraform+-+Module+Versioning+with+GitHub.mp4">
       <img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Terraform+module+versioning-test-video.png" alt="TF remote module Versioning" width="300" height="300">
     </a>
   </div>
   
-  <div>
-    <p>免费domain？</p>
-    <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/domain.mov">
-      <img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/freenom.png" alt="免费domain？" width="300" height="300">
+  <div style="float: left;">
+    <p>is the Devops right for you ? </p>
+    <a href="URL_TO_VIDEO_2">
+      <img src="URL_TO_THUMBNAIL_2" alt="Alt Text 2" width="300" height="300">
     </a>
   </div>
 </div>
+
 
 
 
