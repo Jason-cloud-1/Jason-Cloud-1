@@ -20,23 +20,11 @@
 
 
 ### Video   
-| terraform remote module versioning| 동영상 2 |
-|----------|----------|
-| <div style="overflow: auto;">
-  <div style="float: left;">
-    <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/47+Learn+Terraform+-+Module+Versioning+with+GitHub.mp4">
-      <img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Terraform+module+versioning-test-video.png" alt="TF remote module Versioning" width="250" height="120">
-    </a>
-  </div>
-</div>         | <div style="overflow: auto;">
-  <div style="float: left;">
-    <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/47+Learn+Terraform+-+Module+Versioning+with+GitHub.mp4">
-      <img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Terraform+module+versioning-test-video.png" alt="TF remote module Versioning" width="250" height="120">
-    </a>
-  </div>
-</div>        |
-| 동영상 3 | 동영상 4 |
-|          |          |
+|            |            |
+|------------|------------|
+| [![TF remote module Versioning](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Terraform+module+versioning-test-video.png)](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/47+Learn+Terraform+-+Module+Versioning+with+GitHub.mp4) | [![TF remote module Versioning](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Terraform+module+versioning-test-video.png)](https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/47+Learn+Terraform+-+Module+Versioning+with+GitHub.mp4) |
+|            |            |
+
 
 
 
