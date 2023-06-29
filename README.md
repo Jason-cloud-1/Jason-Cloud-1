@@ -21,6 +21,7 @@
 
 ### Video  
 
+
 <div style="overflow: auto;">
   <div style="float: left;">
     <p>terraform remote module versioning</p>
@@ -28,21 +29,19 @@
       <img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Terraform+module+versioning-test-video.png" alt="TF remote module Versioning" width="350" height="180">
     </a>
   </div>
-  
-  <div style="float: left;">
+  <div style="float: right;">
     <p>is the Devops right for you ? </p>
     <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Is+DevOps+right+for+you+13+points+to+consider.mp4">
       <img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/devops.png" alt="Alt Text 2" width="350" height="180">
     </a>
   </div>
-  
   <div style="float: left;">
     <p>Python With github Copilot </p>
     <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Effortless+Python+with+GitHub+Copilot.mp4">
       <img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/python_copilot.png" alt="Alt Text 2" width="350" height="180">
     </a>
   </div>
-</div>   
+</div>    
 
 ### Reference  
 
