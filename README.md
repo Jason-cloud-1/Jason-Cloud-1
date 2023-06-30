@@ -17,6 +17,8 @@
 ![logo](https://img.shields.io/badge/Terraform-7B42BC.svg?&style=for-the-badge&logo=terraform&logoColor=white)
 ![logo](https://img.shields.io/badge/pulumi-8A3391.svg?&style=for-the-badge&logo=pulumi&logoColor=white)
 ![logo](https://img.shields.io/badge/helm-0F1689.svg?&style=for-the-badge&logo=helm&logoColor=white)
+![logo](https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![logo](https://img.shields.io/badge/Mysql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ### Video   
