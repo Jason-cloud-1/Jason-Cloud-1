@@ -21,7 +21,7 @@
 ![logo](https://img.shields.io/badge/Mysql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)  
 
 
-![logo](https://img.shields.io/badge/Video-8A2BE2)
+![logo](https://img.shields.io/badge/Video-040B0F)
  
 | TF remote module Versioning | is DevOps right for you? |
 |-----------------------------|-------------------------|
