@@ -27,7 +27,7 @@
  
 | TF remote module Versioning | is DevOps right for you? |
 |-----------------------------|-------------------------|
-| <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/47+Learn+Terraform+-+Module+Versioning+with+GitHub.mp4"><img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Terraform+module+versioning-test-video.png" alt="TF remote module Versioning" width="395" height="210"></a> | <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Is+DevOps+right+for+you+13+points+to+consider.mp4"><img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/devops.png" alt="is DevOps right for you?" width="395" height="210"></a> |
+| <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/github-basic/Github+Codespace+crash+course.mp4"><img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/github-basic/codespace.png" alt="TF remote module Versioning" width="395" height="210"></a> | <a href="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/Is+DevOps+right+for+you+13+points+to+consider.mp4"><img src="https://github-image-file.s3.ap-northeast-2.amazonaws.com/github-video/devops.png" alt="is DevOps right for you?" width="395" height="210"></a> |
 |                             |                         |
 
 
